@@ -99,10 +99,6 @@ nav ul li a.selected {
   position: relative;
 }
 
-.theme-icon--wrapper:hover {
-  cursor: pointer;
-}
-
 .theme-toggle {
   width: 30px;
   height: 30px;
