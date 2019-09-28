@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "424bdcb7903d8b257c4bf773b593a020",
+    "revision": "d6eb43119fbd1e3332acd2d3af799e64",
     "url": "/techladies-assignment/index.html"
   },
   {
-    "revision": "578a6c749ebdfaae97ca",
-    "url": "/techladies-assignment/static/css/main.4f43829d.chunk.css"
+    "revision": "69fce43d95981a1a1dd8",
+    "url": "/techladies-assignment/static/css/main.4aacc1bf.chunk.css"
   },
   {
     "revision": "c67e9d2375658a3df3a3",
     "url": "/techladies-assignment/static/js/2.ab297149.chunk.js"
   },
   {
-    "revision": "578a6c749ebdfaae97ca",
+    "revision": "69fce43d95981a1a1dd8",
     "url": "/techladies-assignment/static/js/main.95a7c23c.chunk.js"
   },
   {
