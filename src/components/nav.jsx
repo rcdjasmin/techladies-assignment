@@ -7,13 +7,13 @@ function Nav() {
         <nav>
             <ul>
             <li>
-                <NavLink to="/" exact={true} activeClassName="selected">About me</NavLink>
+                <NavLink to="/techladies-assignment/" exact={true} activeClassName="selected">About me</NavLink>
             </li>
             <li>
-                <NavLink to="/contact/" activeClassName="selected">Contact</NavLink>
+                <NavLink to="/techladies-assignment/contact/" activeClassName="selected">Contact</NavLink>
             </li>
             <li>
-                <NavLink to="/weather-app/" activeClassName="selected">Weather App</NavLink>
+                <NavLink to="/techladies-assignment/weather-app/" activeClassName="selected">Weather App</NavLink>
             </li>
             </ul>
             <div className="theme-icon--wrapper">
