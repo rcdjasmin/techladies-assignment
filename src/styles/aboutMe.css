@@ -1,0 +1,18 @@
+.about-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about_description {
+    flex-basis: 720px;
+}
+
+.about_image-wrapper {
+    flex-basis: 420px;
+}
+
+.about_image-wrapper img {
+    width: 100%;
+}

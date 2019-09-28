@@ -1,0 +1,33 @@
+.weather-page-container {
+    display: flex;
+  }
+
+.weather-page-container ul {
+  height: 700px;
+  overflow-y: scroll;
+  list-style-type: none;
+  background-color: rgba(77, 59, 94, 0.03);
+  transition: background-color 1s cubic-bezier(0.6, 0, 0.2, 1);
+  padding: 10px;
+  margin-right: 20px;
+  margin-top: 0;
+}
+
+.weather-page-container ul li + li {
+  margin-top: 20px
+}
+
+.map-marker--forecast,
+.map-marker--area {
+  margin: 0;
+}
+
+body.theme--dark .weather-page-container ul {
+  background-color: rgba(77, 59, 94, 0.3);
+  transition: background-color 1s cubic-bezier(0.6, 0, 0.2, 1);
+}
+
+body.theme--dark .map-marker--area,
+body.theme--dark .map-marker--forecast {
+  color: #282A37;
+}
