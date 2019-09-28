@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/techladies-assignment/static/css/main.4c61a48c.chunk.css",
+    "main.css": "/techladies-assignment/static/css/main.2ed7d4a9.chunk.css",
     "main.js": "/techladies-assignment/static/js/main.95a7c23c.chunk.js",
     "main.js.map": "/techladies-assignment/static/js/main.95a7c23c.chunk.js.map",
     "runtime~main.js": "/techladies-assignment/static/js/runtime~main.a820456c.js",
@@ -8,9 +8,9 @@
     "static/js/2.ab297149.chunk.js": "/techladies-assignment/static/js/2.ab297149.chunk.js",
     "static/js/2.ab297149.chunk.js.map": "/techladies-assignment/static/js/2.ab297149.chunk.js.map",
     "index.html": "/techladies-assignment/index.html",
-    "precache-manifest.87a3a063433ffcfb487d1fcb5c34b77e.js": "/techladies-assignment/precache-manifest.87a3a063433ffcfb487d1fcb5c34b77e.js",
+    "precache-manifest.8f3c4f3449d6e8ed2275cea32d206518.js": "/techladies-assignment/precache-manifest.8f3c4f3449d6e8ed2275cea32d206518.js",
     "service-worker.js": "/techladies-assignment/service-worker.js",
-    "static/css/main.4c61a48c.chunk.css.map": "/techladies-assignment/static/css/main.4c61a48c.chunk.css.map",
+    "static/css/main.2ed7d4a9.chunk.css.map": "/techladies-assignment/static/css/main.2ed7d4a9.chunk.css.map",
     "static/media/index.css": "/techladies-assignment/static/media/sun-moon-1.b2718df0.svg",
     "static/media/it me.JPG": "/techladies-assignment/static/media/it me.fe3b302f.JPG"
   }
