@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/techladies-assignment/static/css/main.2ed7d4a9.chunk.css",
-    "main.js": "/techladies-assignment/static/js/main.95a7c23c.chunk.js",
-    "main.js.map": "/techladies-assignment/static/js/main.95a7c23c.chunk.js.map",
+    "main.css": "/techladies-assignment/static/css/main.3202f105.chunk.css",
+    "main.js": "/techladies-assignment/static/js/main.96a42af4.chunk.js",
+    "main.js.map": "/techladies-assignment/static/js/main.96a42af4.chunk.js.map",
     "runtime~main.js": "/techladies-assignment/static/js/runtime~main.a820456c.js",
     "runtime~main.js.map": "/techladies-assignment/static/js/runtime~main.a820456c.js.map",
     "static/js/2.ab297149.chunk.js": "/techladies-assignment/static/js/2.ab297149.chunk.js",
     "static/js/2.ab297149.chunk.js.map": "/techladies-assignment/static/js/2.ab297149.chunk.js.map",
     "index.html": "/techladies-assignment/index.html",
-    "precache-manifest.8f3c4f3449d6e8ed2275cea32d206518.js": "/techladies-assignment/precache-manifest.8f3c4f3449d6e8ed2275cea32d206518.js",
+    "precache-manifest.02fe5d10720907aa301d523ffcdaf618.js": "/techladies-assignment/precache-manifest.02fe5d10720907aa301d523ffcdaf618.js",
     "service-worker.js": "/techladies-assignment/service-worker.js",
-    "static/css/main.2ed7d4a9.chunk.css.map": "/techladies-assignment/static/css/main.2ed7d4a9.chunk.css.map",
+    "static/css/main.3202f105.chunk.css.map": "/techladies-assignment/static/css/main.3202f105.chunk.css.map",
     "static/media/index.css": "/techladies-assignment/static/media/sun-moon-1.b2718df0.svg",
     "static/media/it me.JPG": "/techladies-assignment/static/media/it me.fe3b302f.JPG"
   }
