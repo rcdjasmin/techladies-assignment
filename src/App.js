@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Route } from "react-router-dom";
+import { HashRouter, Route } from "react-router-dom";
 import AboutMe from "./components/aboutMe";
 import Contact from "./components/contact";
 import Nav from "./components/nav";
@@ -8,7 +8,7 @@ import WeatherApp from "./components/weatherApp";
 
 function AppRouter() {
   return (
-    <BrowserRouter>
+    <HashRouter basename='/'>
       <div>
         <Nav />
 
@@ -16,7 +16,7 @@ function AppRouter() {
         <Route path="/contact/" component={Contact} />
         <Route path="/weather-app/" component={WeatherApp} />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

@@ -1,19 +1,20 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+import { HashRouter, NavLink } from "react-router-dom";
 
 
 function Nav() {
     return (
+        <HashRouter basename='/'>
         <nav>
             <ul>
             <li>
-                <NavLink to="/techladies-assignment/" exact={true} activeClassName="selected">About me</NavLink>
+                <NavLink to="/" exact={true} activeClassName="selected">About me</NavLink>
             </li>
             <li>
-                <NavLink to="/techladies-assignment/contact/" activeClassName="selected">Contact</NavLink>
+                <NavLink to="/contact/" activeClassName="selected">Contact</NavLink>
             </li>
             <li>
-                <NavLink to="/techladies-assignment/weather-app/" activeClassName="selected">Weather App</NavLink>
+                <NavLink to="/weather-app/" activeClassName="selected">Weather App</NavLink>
             </li>
             </ul>
             <div className="theme-icon--wrapper">
@@ -21,6 +22,7 @@ function Nav() {
                 <span class="theme-icon"></span>
             </div>
         </nav>
+        </HashRouter>
     );
 }
 

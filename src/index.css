@@ -39,11 +39,6 @@ body.theme--dark {
   color: white;
 }
 
-body.theme--dark .map-marker--area,
-body.theme--dark .map-marker--forecast {
-  color: #282A37;
-}
-
 a {
   text-decoration: none;
   color: #9022ff;
@@ -124,6 +119,10 @@ nav ul li a.selected {
   position: absolute;
   left: 0;
   pointer-events: none;
+}
+
+.theme-icon:hover {
+  cursor: pointer;
 }
 
 body.theme--dark .theme-icon {
