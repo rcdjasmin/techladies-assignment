@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8f45e6a81e3e11fc065554125e13452",
+    "revision": "0608b11419f9288bbcf949260cb06896",
     "url": "/techladies-assignment/index.html"
   },
   {
-    "revision": "a89726362d68f78260a2",
+    "revision": "9ade69ce31677b02453f",
     "url": "/techladies-assignment/static/css/main.4f43829d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/techladies-assignment/static/js/2.4a3d804d.chunk.js"
   },
   {
-    "revision": "a89726362d68f78260a2",
-    "url": "/techladies-assignment/static/js/main.f43687a8.chunk.js"
+    "revision": "9ade69ce31677b02453f",
+    "url": "/techladies-assignment/static/js/main.7aac143a.chunk.js"
   },
   {
     "revision": "969281b3fb28e1e5fd24",
