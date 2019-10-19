@@ -3,6 +3,7 @@ This app provides a quick introduction of myself and my contact details + the we
 
 View it here: https://celenajasmin.com/techladies-assignment
 
+<hr>
 Here are some of the tutorials that helped me:
 
 <strong>React docs</strong>
