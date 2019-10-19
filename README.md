@@ -1,10 +1,10 @@
 # techladies-assignment
 This app provides a quick introduction of myself and my contact details + the weather in Singapore at the moment.
 
-View it here: https://celenajasmin.com/techladies-assignment
+<strong>View it here: https://celenajasmin.com/techladies-assignment</strong>
 
 <hr>
-Here are some of the tutorials that helped me:
+Here are some of the tutorials that helped me:<br>
 
 <strong>React docs</strong>
 https://reactjs.org/docs/state-and-lifecycle.html
