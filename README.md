@@ -9,8 +9,10 @@ Here are some of the tutorials that helped me:
 https://reactjs.org/docs/state-and-lifecycle.html
 
 <strong>ES6:</strong>
-https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+<ul>
+  <li>https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c</li>
+  <li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions</li>
+</ul>
 
 <strong>Deploying to GH pages</strong>
 https://www.youtube.com/watch?v=Ke90Tje7VS0
